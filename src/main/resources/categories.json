@@ -1,0 +1,153 @@
+{
+    "id": "CH1_100000",
+    "name": "Geberit AquaClean",
+    "slogan": "For a fresh-out-of-the-shower feeling",
+    "categoryType": "system",
+    "images": [
+        {
+            "key": "DAS_334878",
+            "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/48/78/DAS_334878_20170926_142130.jpg",
+            "orientation": "PreviewImage"
+        }
+    ],
+    "subCategories": [
+        {
+            "id": "CH2_100001",
+            "name": "WC complete solutions",
+            "categoryType": "system",
+            "images": [
+                {
+                    "key": "DAS_179555",
+                    "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/95/55/DAS_179555_20170925_165423.jpg",
+                    "orientation": "PreviewImage"
+                }
+            ],
+            "subCategories": [
+                {
+                    "id": "CH3_100002",
+                    "name": "Wall-hung WCs",
+                    "categoryType": "system",
+                    "images": [
+                        {
+                            "key": "DAS_179555",
+                            "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/95/55/DAS_179555_20170925_165423.jpg",
+                            "orientation": "PreviewImage"
+                        }
+                    ],
+                    "hasProducts": true,
+                    "hasSpareParts": true
+                },
+                {
+                    "id": "CH3_132761",
+                    "name": "Floor-standing WCs",
+                    "categoryType": "system",
+                    "images": [
+                        {
+                            "key": "DAS_1105921",
+                            "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/59/21/DAS_1105921_20200619_130114.jpg",
+                            "orientation": "PreviewImage"
+                        }
+                    ],
+                    "hasProducts": true,
+                    "hasSpareParts": true
+                }
+            ],
+            "hasProducts": false,
+            "hasSpareParts": false
+        },
+        {
+            "id": "CH2_100000",
+            "name": "WC enhancement solutions",
+            "categoryType": "system",
+            "images": [
+                {
+                    "key": "DAS_334878",
+                    "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/48/78/DAS_334878_20170926_142130.jpg",
+                    "orientation": "PreviewImage"
+                }
+            ],
+            "hasProducts": true,
+            "hasSpareParts": true
+        },
+        {
+            "id": "CH2_100003",
+            "name": "Accessories",
+            "categoryType": "system",
+            "images": [
+                {
+                    "key": "DAS_120594",
+                    "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/05/94/DAS_120594_20170927_101349.jpg",
+                    "orientation": "PreviewImage"
+                }
+            ],
+            "subCategories": [
+                {
+                    "id": "CH3_144731",
+                    "name": "For WC complete solutions",
+                    "categoryType": "system",
+                    "images": [
+                        {
+                            "key": "DAS_145022",
+                            "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/50/22/DAS_145022_20170925_162203.jpg",
+                            "orientation": "PreviewImage"
+                        }
+                    ],
+                    "hasProducts": true,
+                    "hasSpareParts": false
+                },
+                {
+                    "id": "CH3_144730",
+                    "name": "For WC enhancement solutions",
+                    "categoryType": "system",
+                    "images": [
+                        {
+                            "key": "DAS_120594",
+                            "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/05/94/DAS_120594_20170927_101349.jpg",
+                            "orientation": "PreviewImage"
+                        }
+                    ],
+                    "hasProducts": true,
+                    "hasSpareParts": true
+                },
+                {
+                    "id": "CH3_144732",
+                    "name": "For WC enhancement solutions and WC complete solutions",
+                    "categoryType": "system",
+                    "images": [
+                        {
+                            "key": "DAS_235892",
+                            "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/58/92/DAS_235892_20170925_174323.jpg",
+                            "orientation": "PreviewImage"
+                        }
+                    ],
+                    "hasProducts": true,
+                    "hasSpareParts": false
+                },
+                {
+                    "id": "CH3_144734",
+                    "name": "Consumables",
+                    "categoryType": "system",
+                    "images": [
+                        {
+                            "key": "DAS_1726090",
+                            "thumbnail": "https://images.data.geberit.com/image/upload/f_auto,t_ProductSmall/60/90/DAS_1726090_20200211_123816.jpg",
+                            "orientation": "PreviewImage"
+                        }
+                    ],
+                    "hasProducts": true,
+                    "hasSpareParts": false
+                }
+            ],
+            "hasProducts": false,
+            "hasSpareParts": false
+        }
+    ],
+    "overviews": [
+        {
+            "name": "Accessory overview – Water supply and electrical connection for Geberit concealed cisterns",
+            "url": "https://cdn.data.geberit.com/overviews/GB-en/DAS_157937.pdf"
+        }
+    ],
+    "hasProducts": false,
+    "hasSpareParts": false
+}
